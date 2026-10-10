@@ -1,0 +1,54 @@
+{
+  "slug": "smart-chef-thrissur",
+  "name": "Smart Chef",
+  "shortName": "Smart Chef",
+  "descriptor": "Catering & Events",
+  "address": "Ambadi Kulam Rd, Nedupurha, Olarikkara, Thrissur, Keralam 680012",
+  "area": "Nedupurha",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680012",
+  "geo": {
+    "lat": 10.516699599999999,
+    "lng": 76.1800324
+  },
+  "mapsLink": "https://maps.google.com/?cid=9847764516601266239",
+  "phone": "+91 98950 24002",
+  "whatsapp": "919895024002",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.7,
+  "reviewCount": 69,
+  "reviews": [
+    {
+      "name": "Endless EV",
+      "rating": 5,
+      "quote": "Very prompt response and professionaly serving good quality food."
+    },
+    {
+      "name": "Adhith Maroky",
+      "rating": 5,
+      "quote": "Very nice catering with best food and best service"
+    },
+    {
+      "name": "Rahul Thoppil",
+      "rating": 5,
+      "quote": "First of all food was great and absolutely delicious,also the service was very pleasing and attitude of their team was absolutely amazing and also their settings with that wooden counters are amazing they create a very cool ambiance for that function im sure that one day they will be the best catering in kerala"
+    },
+    {
+      "name": "Rohith A.G",
+      "rating": 5,
+      "quote": "A place where you get a catering solution for every function. Responsible staff and management.. premium quality ."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://smart-chef-thrissur.vercel.app"
+}
